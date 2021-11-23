@@ -3,6 +3,7 @@
 ## Event:
 ### Athena Winter Hackathon 2021: A virtual hackathon, dedicated to women and non-binary people in tech.
 #### Over 48 hours candidates were tasked with developing a solution for the theme `WORK FROM HOME`
+:black_nib: https://www.showcode.io/athena-hack/
 
 ## My Approach
 
