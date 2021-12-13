@@ -6,6 +6,8 @@
 :black_nib: https://www.showcode.io/athena-hack/
 
 ## My Approach
+![Screenshot (1663)](https://user-images.githubusercontent.com/73738414/145751244-2a536f13-538d-4385-b068-563e62cf38d5.png)
+
 
 ### Problem: 
 One of the initial challenges faced by people working from home is balancing work and household chores while keeeping everything in an organized manner
