@@ -1,0 +1,12 @@
+Embedded Documents Arrays 
+methods()- validate() bulkwrite() deleteOne()
+Read/Write Concerns. Retryable reads/writes
+projection logical comparison element array- query operators
+Performance optimization-creating index, atlas search index,query optimization
+ It allows you to perform calculations and return the calculated results using various data aggregation tools such as aggregation pipelines, map-reduce functions, or single-purpose aggregation methods.
+transaction
+developer tools- Kafka Spark Elastic Search
+Analyzer VS Code Extension Backup and Recovery
+Scaling MongoDB- Tuning Configuration Indexing Query Optimization
+Security-Kerberos LDAP Proxy
+Encryption- TLS/SSL Clientside field level, At Rest
